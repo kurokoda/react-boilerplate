@@ -1,7 +1,7 @@
 import './homePage.css';
 import React from 'react';
 
-const HomePage = (): JSX.Element => {
+const HomePage = () => {
   return (
     <div className="homePage">
       <header className="homePage-header">
